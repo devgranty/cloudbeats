@@ -1,0 +1,19 @@
+/* Tablets and above */
+@media (min-width: 768px){
+    .main-container{
+        width:92%!important;
+        margin:auto;
+    }
+
+    .nav{
+        width:92%!important;
+    }
+
+    .side-links{
+        display:block!important;
+    }
+
+    .nav-btn{
+        display:none;
+    }
+}
